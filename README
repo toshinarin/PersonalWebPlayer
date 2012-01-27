@@ -1,0 +1,4 @@
+Player for music and video contents in your own web server.
+This player consists of file server and player for browsers.
+File server is implemented with node.js and apache.
+Player for browser is implemented with html5.
