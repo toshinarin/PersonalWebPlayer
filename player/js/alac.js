@@ -1,3 +1,9 @@
+/**
+ * alac.js is released under the same terms as the original ALAC decoder from Apple,
+ * which is the Apache 2 license. http://www.apache.org/licenses/LICENSE-2.0
+ * https://github.com/ofmlabs/alac.js
+ */
+
 var Buffer;
 
 Buffer = (function() {
